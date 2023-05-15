@@ -1,0 +1,13 @@
+{
+  "name": "dsj_pfi",
+  "version": "1.0.0",
+  "description": "09 mai 2023\r Carlos Alberto da Silva Júnior",
+  "main": "pfi.js",
+  "scripts": {
+    "dev": "nodemon pfi.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
